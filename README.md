@@ -1,6 +1,6 @@
 <!-- Profile README for TheAliveStone -->
 
-<h1 align="center">Hi, I'm TheAliveStone! 👋</h1>
+<h1 align="center">Hi, I'm Livingstone! 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Learner-blue?style=flat-square" alt="Student badge"/>
