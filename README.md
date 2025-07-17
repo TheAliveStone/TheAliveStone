@@ -40,5 +40,5 @@ languages = ["Python", "HTML", "CSS", "JavaScript"]
 ---
 
 <p align="center">
-  <em>Let’s make something awesome!</em>
+  <em>Let’s create together!</em>
 </p>
