@@ -27,6 +27,10 @@ languages = ["Python", "HTML", "CSS", "JavaScript"]
 
 ---
 
+[![roadmap.sh](https://roadmap.sh/card/tall/670d7b39791f57dd60e71cb6?variant=dark)](https://roadmap.sh)
+
+---
+
 ### 📚 What I'm Working On
 
 - Building a strong foundation in Python
